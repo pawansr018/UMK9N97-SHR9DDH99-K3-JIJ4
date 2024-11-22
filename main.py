@@ -68,12 +68,12 @@ background-color: white;
 }
 
 h1 {
-  background-color: green;
+  background-color: red;
   color: white;
 }
 
 div {
-  background-color: blue;
+  background-color: orange;
   color: white;
 }
     .container{
